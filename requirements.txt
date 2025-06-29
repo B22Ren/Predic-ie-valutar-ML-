@@ -6,4 +6,5 @@ python-dotenv
 bcrypt
 yagmail
 Pillow
-statsmodels
+statsmodels==0.14.0
+scipy==1.12.0

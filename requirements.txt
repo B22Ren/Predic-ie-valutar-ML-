@@ -1,0 +1,8 @@
+streamlit
+pandas
+PyYAML
+matplotlib
+python-dotenv
+bcrypt
+yagmail
+Pillow

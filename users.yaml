@@ -1,0 +1,26 @@
+credentials:
+  usernames:
+    Andro:
+      email: Sorster6@gmail.com
+      name: Andro
+      notifications: false
+      password: $2b$12$uM1EYShIxrk1zs.A91PQZe6khuD9zdYiva1Vu7bC2a47E1PU1ED2m
+      profile_image: profile_images\Andro.png
+    Victor:
+      email: proshadow555@gmail.com
+      name: Victor
+      notifications: true
+      password: $2b$12$rzTXiy1j.HW1S1.YqOCno.U/d5eb0sFRPgk148v/5o9qQAzD8psza
+      profile_image: profile_images\Victor.png
+    Viktor:
+      email: sorstersaysso@gmail.com
+      name: Viktor
+      notifications: false
+      password: $2b$12$h11lTHymqhew8OSmMEpb6eJ6tgAGfDQmef/gXjJ0o5Nafd4njPJyK
+      profile_image: profile_images\Viktor.png
+    kimchi:
+      email: bordianurenata@gmail.com
+      name: kimchi
+      notifications: false
+      password: $2b$12$zomFnMKcEeZV9IrxYkwX2ezeaYQyaEjJCL/9n3mK23TIMHeqHKP.e
+      profile_image: null
